@@ -1,43 +1,119 @@
-<h1 align="center">Hi 👋, I'm KARTIK DEV</h1>
-<h3 align="center">A passionate frontend developer from BANGLADESH</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=onmicroit&label=Profile%20views&color=0e75b6&style=flat" alt="onmicroit" /> </p>
+<!-- cover image -->
+<img src="https://user-images.githubusercontent.com/109414032/196632875-8f0cb8be-4614-43c8-ad27-f24de1807248.png" alt="KARTIK DEV cover image" />
+<!-- end cover image -->
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=onmicroit" alt="onmicroit" /></a> </p>
+<br/>
 
-<p align="left"> <a href="https://twitter.com/onmicroit" target="blank"><img src="https://img.shields.io/twitter/follow/onmicroit?logo=twitter&style=for-the-badge" alt="onmicroit" /></a> </p>
+<!-- about me -->
+<h2 align="center"> :bust_in_silhouette: About Me :bust_in_silhouette: </h2>
 
-- 🔭 I’m currently working on **Bold Bank Management System**
+<br/>
 
-- 🌱 I’m currently learning **Anaconda Computer program**
+<!-- :round_pushpin: I'm currently living in **Dhaka, Bangladesh**. -->
 
-- 👯 I’m looking to collaborate on **HR Management**
+<!-- :mortar_board: I dropped out from **university (Computer Science, University of the People)**. -->
 
-- 🤝 I’m looking for help with **Front-end web development**
+:briefcase: I'm currently learning Anaconda Computer program
 
-- 👨‍💻 All of my projects are available at [This GitHub](This GitHub)
+:book: I like to explore **new technologies and develop software solutions**.
 
-- 💬 Ask me about **HTML, CSS, Oracle DBMS**
+:seedling: I’m currently focusing on learning **data structures and algorithms**.
 
-- 📫 How to reach me **kartik@itcommunication.onmicrosoft.com**
+<!-- 🤝  I’m looking for help with **fixing bugs.** -->
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/onmicroit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="onmicroit" height="30" width="40" /></a>
-<a href="https://twitter.com/onmicroit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="onmicroit" height="30" width="40" /></a>
-<a href="https://fb.com/kartik.dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kartik.dev" height="30" width="40" /></a>
-<a href="https://instagram.com/kartik.dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kartik.dev" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/kartik.dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="kartik.dev" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/kartik.dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="kartik.dev" height="30" width="40" /></a>
-<a href="https://discord.gg/kartik.dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="kartik.dev" height="30" width="40" /></a>
+👨‍💻 All of my projects are available in my GitHuh
+
+🏫 I help people to learn **C, C++, JavaScript, etc.
+
+📫 Reach me through **kartik@itcommunication.onmicrosoft.com**.
+ 
+<!-- ⚡  Fun fact **I'm idle so that I always try to code short.** -->
+
+:runner: I workout **every morning**.
+
+<!-- end about me -->
+
+<br/>
+<br/>
+
+<!-- language & tools -->
+<h2 align="center">🛠 Languages and Tools 🛠</h2>
+<br/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,javascript,typescript" />
 </p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,next,redux,html,css,bootstrap,tailwind" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
+</p>
+<!-- end language & tools -->
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+<br/>
+<br/>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=onmicroit&show_icons=true&locale=en&layout=compact" alt="onmicroit" /></p>
+<!-- github analytics -->
+<h2 align="center"> 📊 GitHub Analytics 📊 </h2>
+<br/>
+<p align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mustaquenadim&background=003855&currStreakNum=67e26d&ring=67e26d&fire=67e26d&currStreakLabel=67e26d&sideNums=ffffff&sideLabels=ffffff&dates=adb5bd&hide_border=true" alt="mustaquenadim github streak stats" />
+</p>
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mustaquenadim&custom_title=GitHub Stats&show_icons=true&locale=en&title_color=67e26d&text_color=ffffff&icon_color=67e26d&bg_color=003855&hide_border=true" alt="mustaquenadim github stats" />
+</p>
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mustaquenadim&langs_count=8&layout=compact&card_width=445&title_color=67e26d&text_color=ffffff&icon_color=67e26d&bg_color=003855&hide_border=true" alt="mustaquenadim most used languages" />
+</p>
+<p align="center">
+  <img align="center" src="https://github.com/mustaquenadim/mustaquenadim/blob/output/github-contribution-grid-snake.svg" alt="mustaquenadim contribution grid snake" />
+</p>
+<!-- end github analytics -->
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=onmicroit&show_icons=true&locale=en" alt="onmicroit" /></p>
+<br/>
+<br/>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=onmicroit&" alt="onmicroit" /></p>
+<!-- github profile trophy -->
+<h2 align="center"> :trophy: GitHub Profile Trophy :trophy: </h2>
 
+<br/>
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=mustaquenadim&theme=flat&margin-w=10&no-frame=true" alt="KARTIK DEV Github profile trophy" />
+  </a>
+</p>
+<!-- end github profile trophy -->
+
+<br/>
+<br/>
+
+<!-- connect with me -->
+<h2 align="center">🔗 Connect with Me 🔗</h2>
+
+<br/>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/KARTIK.DEV/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="https://twitter.com/KARTIK.DEV/">
+    <img src="https://skillicons.dev/icons?i=twitter" />
+  </a>
+  <a href="https://www.instagram.com/KARTIK.DEV/">
+    <img src="https://skillicons.dev/icons?i=instagram" />
+  </a>
+</p>
+<!-- end connect with me -->
+
+<!-- <h3 align="center">✨ Support ✨</h3>
+<p align="center"><a href="https://www.buymeacoffee.com/KARTIK.DEV"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="KARTIK DEV" /></a></p> -->
+
+<br/>
+<br/>
+
+<p align="center">2022 ©️ KARTIK DEV</p>
