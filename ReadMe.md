@@ -1,6 +1,3 @@
-# 💫 About Me:
-:briefcase: I'm currently learning Anaconda Computer program<br><br>:book: I like to explore **new technologies and develop software solutions**.<br><br>:seedling: I’m currently focusing on learning **data structures and algorithms**.<br><br><!-- 🤝  I’m looking for help with **fixing bugs.** --><br><br>👨‍💻 All of my projects are available in my GitHuh<br><br>🏫 I help people to learn **C, C++, JavaScript, etc.<br><br>📫 Reach me through **kartik@itcommunication.onmicrosoft.com**.<br> 
-
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/kartik.db) 
@@ -20,9 +17,3 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=onmicroIT&icon=0&color=0)](https://visitcount.itsvg.in)
-
-
-<!--
-From
-https://gprm.itsvg.in/
--->
