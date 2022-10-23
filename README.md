@@ -61,17 +61,27 @@
 <h2 align="center"> 📊 GitHub Analytics 📊 </h2>
 <br/>
 <p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mustaquenadim&background=003855&currStreakNum=67e26d&ring=67e26d&fire=67e26d&currStreakLabel=67e26d&sideNums=ffffff&sideLabels=ffffff&dates=adb5bd&hide_border=true" alt="mustaquenadim github streak stats" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=onmicroIT&background=003855&currStreakNum=67e26d&ring=67e26d&fire=67e26d&currStreakLabel=67e26d&sideNums=ffffff&sideLabels=ffffff&dates=adb5bd&hide_border=true" alt="onmicroIT github streak stats" />
 </p>
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mustaquenadim&custom_title=GitHub Stats&show_icons=true&locale=en&title_color=67e26d&text_color=ffffff&icon_color=67e26d&bg_color=003855&hide_border=true" alt="mustaquenadim github stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=onmicroIT&custom_title=GitHub Stats&show_icons=true&locale=en&title_color=67e26d&text_color=ffffff&icon_color=67e26d&bg_color=003855&hide_border=true" alt="onmicroIT github stats" />
 </p>
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mustaquenadim&langs_count=8&layout=compact&card_width=445&title_color=67e26d&text_color=ffffff&icon_color=67e26d&bg_color=003855&hide_border=true" alt="mustaquenadim most used languages" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=onmicroIT&langs_count=8&layout=compact&card_width=445&title_color=67e26d&text_color=ffffff&icon_color=67e26d&bg_color=003855&hide_border=true" alt="onmicroIT most used languages" />
 </p>
 <p align="center">
-  <img align="center" src="https://github.com/mustaquenadim/mustaquenadim/blob/output/github-contribution-grid-snake.svg" alt="mustaquenadim contribution grid snake" />
+  <img align="center" src="https://github.com/onmicroIT/onmicroIT/output/github-contribution-grid-snake-dark.svg" alt="onmicroIT contribution grid snake")
+
+                           />
+                           
+                           
+                           <br>
+                           <br>
+                           ![github contribution grid snake animation](https://raw.githubusercontent.com/onmicroIT/onmicroIT/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/onmicroIT/onmicroIT/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+
 </p>
+
+
 <!-- end github analytics -->
 
 <br/>
@@ -84,7 +94,7 @@
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=mustaquenadim&theme=flat&margin-w=10&no-frame=true" alt="KARTIK DEV Github profile trophy" />
+    <img src="https://github-profile-trophy.vercel.app/?username=onmicroIT&theme=flat&margin-w=10&no-frame=true" alt="KARTIK DEV Github profile trophy" />
   </a>
 </p>
 <!-- end github profile trophy -->
