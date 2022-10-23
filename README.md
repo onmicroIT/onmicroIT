@@ -68,21 +68,14 @@
 </p>
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=onmicroIT&langs_count=8&layout=compact&card_width=445&title_color=67e26d&text_color=ffffff&icon_color=67e26d&bg_color=003855&hide_border=true" alt="onmicroIT most used languages" />
-</p>
-<p align="center">
-  <img align="center" src="https://github.com/onmicroIT/onmicroIT/output/github-contribution-grid-snake-dark.svg" alt="onmicroIT contribution grid snake")
-
-                           />
-                           
-                           
-                           <br>
-                           <br>
-                           ![github contribution grid snake animation](https://raw.githubusercontent.com/onmicroIT/onmicroIT/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/onmicroIT/onmicroIT/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-
-</p>
+</p> 
+ 
 
 
 <!-- end github analytics -->
+
+![github contribution grid snake animation](https://raw.githubusercontent.com/onmicroIT/onmicroIT/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/onmicroIT/onmicroIT/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+
 
 <br/>
 <br/>
