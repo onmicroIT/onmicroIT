@@ -1,4 +1,12 @@
 
+![mi perfil](https://res.cloudinary.com/superfolio/image/upload/v1620689979/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f63362f33332f63322f63363333633230656465383266306530636564376435373064626533613166332e676966_yjuh2s.gif)
+
+![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/54b6c068097599.5b50bca476b9b.gif)
+
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=onmicroIT&label=Profile%20views&color=0e75b6&style=flat" alt="onmicroIT" /> </p>
+
 <!-- cover image -->
 <img src="https://user-images.githubusercontent.com/109414032/196632875-8f0cb8be-4614-43c8-ad27-f24de1807248.png" alt="KARTIK DEV cover image" />
 <!-- end cover image -->
@@ -13,6 +21,9 @@
 <!-- :round_pushpin: I'm currently living in **Dhaka, Bangladesh**. -->
 
 <!-- :mortar_board: I dropped out from **university (Computer Science, University of the People)**. -->
+
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
+
 
 :briefcase: I'm currently learning Anaconda Computer program
 
@@ -118,5 +129,7 @@
 
 <br/>
 <br/>
-
+<p align="center">
+<img align="center" src=https://media.tenor.com/rCaIUO0MP-EAAAAC/mario-pixel-art.gif)
+</p>
 <p align="center">2022 ©️ KARTIK DEV</p>
